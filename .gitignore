@@ -1,0 +1,8 @@
+breeds/
+logs/
+models/
+test/
+train/
+
+.ipynb_checkpoints/
+nothing/
